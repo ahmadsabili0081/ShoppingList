@@ -1,0 +1,49 @@
+.todos{
+    margin-top: 5px;
+    box-shadow: var(--main-box-shadow);
+    overflow-x: hidden;
+    border-radius: 5px;
+    max-height: 640px;
+}
+.todo{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 60px;
+    padding: 12px 16px;
+    background-color: var(--secondary-background-color-light);
+    color: var(--main-font-color);
+    font-size: 16px;
+    font-weight: 600;
+}
+.todoIconWrapper{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 120px;
+}
+.todoCount{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 32px;
+    height: 24px;
+    border-radius: 5px;
+    color: var(--label-font-color);
+    box-shadow: var(--main-box-shadow-inset);
+    background-color: var(--secondary-background-color);
+    text-align: center;
+    cursor: pointer;
+
+}
+.todoActionButton{
+    border: none;
+    background-color: unset;
+    padding: unset;
+    height: 24px;
+    width: 24px;
+    cursor: pointer;
+}
+.todoDevider{
+    border-bottom: 1px solid var(--main-border-color);
+}
