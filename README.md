@@ -1,8 +1,7 @@
 # Counter App - React Introduction
+hasil belajar react pemula dengan dibantu course tutorial dari wegodev
 
 ## Happy coding!
-
-##### Apa yang akan kamu pelajari dari app ini?
 
 - React state management (dengan useState)
 - React life cycle (dengan useEffect)
@@ -12,4 +11,3 @@
 - Memberikan type untuk props dengan prop-types
 - CSS Module dan dynamic className dengan classnames
 
-&copy; wegodev | version 1.1.0
