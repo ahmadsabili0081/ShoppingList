@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/shoppingList/static/css/main.c0519e7a.chunk.css",
-    "main.js": "/shoppingList/static/js/main.ec35f3bc.chunk.js",
-    "main.js.map": "/shoppingList/static/js/main.ec35f3bc.chunk.js.map",
-    "runtime-main.js": "/shoppingList/static/js/runtime-main.664127fd.js",
-    "runtime-main.js.map": "/shoppingList/static/js/runtime-main.664127fd.js.map",
-    "static/js/2.51aa1ad3.chunk.js": "/shoppingList/static/js/2.51aa1ad3.chunk.js",
-    "static/js/2.51aa1ad3.chunk.js.map": "/shoppingList/static/js/2.51aa1ad3.chunk.js.map",
-    "index.html": "/shoppingList/index.html",
-    "static/css/main.c0519e7a.chunk.css.map": "/shoppingList/static/css/main.c0519e7a.chunk.css.map",
-    "static/js/2.51aa1ad3.chunk.js.LICENSE.txt": "/shoppingList/static/js/2.51aa1ad3.chunk.js.LICENSE.txt",
-    "static/media/minus-icon.c71ad478.svg": "/shoppingList/static/media/minus-icon.c71ad478.svg",
-    "static/media/plus-icon.a9362ce1.svg": "/shoppingList/static/media/plus-icon.a9362ce1.svg",
-    "static/media/shopping-icon.9dbe3872.svg": "/shoppingList/static/media/shopping-icon.9dbe3872.svg"
+    "main.css": "/ShoppingList/static/css/main.c0519e7a.chunk.css",
+    "main.js": "/ShoppingList/static/js/main.ec35f3bc.chunk.js",
+    "main.js.map": "/ShoppingList/static/js/main.ec35f3bc.chunk.js.map",
+    "runtime-main.js": "/ShoppingList/static/js/runtime-main.84db33dd.js",
+    "runtime-main.js.map": "/ShoppingList/static/js/runtime-main.84db33dd.js.map",
+    "static/js/2.51aa1ad3.chunk.js": "/ShoppingList/static/js/2.51aa1ad3.chunk.js",
+    "static/js/2.51aa1ad3.chunk.js.map": "/ShoppingList/static/js/2.51aa1ad3.chunk.js.map",
+    "index.html": "/ShoppingList/index.html",
+    "static/css/main.c0519e7a.chunk.css.map": "/ShoppingList/static/css/main.c0519e7a.chunk.css.map",
+    "static/js/2.51aa1ad3.chunk.js.LICENSE.txt": "/ShoppingList/static/js/2.51aa1ad3.chunk.js.LICENSE.txt",
+    "static/media/minus-icon.c71ad478.svg": "/ShoppingList/static/media/minus-icon.c71ad478.svg",
+    "static/media/plus-icon.a9362ce1.svg": "/ShoppingList/static/media/plus-icon.a9362ce1.svg",
+    "static/media/shopping-icon.9dbe3872.svg": "/ShoppingList/static/media/shopping-icon.9dbe3872.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.664127fd.js",
+    "static/js/runtime-main.84db33dd.js",
     "static/js/2.51aa1ad3.chunk.js",
     "static/css/main.c0519e7a.chunk.css",
     "static/js/main.ec35f3bc.chunk.js"
