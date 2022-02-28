@@ -1,5 +1,5 @@
 # Counter App - React Introduction
-hasil belajar react pemula dengan dibantu course tutorial dari wegodev
+hasil belajar react pemula dengan dibantu course tutorial dari wegodev,
 jika ingin mencoba bisa click link dibawah
 [GitHub Pages](https://ahmadsabili0081.github.io/ShoppingList)
 
